@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/java-client-7.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/jar_files (7)/gson-2.3.1.jar"/>
+	<classpathentry kind="con" path="org.testng.TESTNG_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/selenium-server-standalone-3.141.59.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/selenium-java-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/java-client-4.1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/selenium-java-2.5.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/jar_files (10).zip"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/jar_files (10)/animal-sniffer-annotations-1.14.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/jar_files (10)/byte-buddy-1.8.15.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/jar_files (10)/checker-compat-qual-2.0.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/jar_files (10)/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/jar_files (10)/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/jar_files (10)/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/jar_files (10)/error_prone_annotations-2.1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/jar_files (10)/guava-25.0-jre.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/jar_files (10)/httpclient-4.5.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/jar_files (10)/httpcore-4.4.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/jar_files (10)/j2objc-annotations-1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/jar_files (10)/jsr305-1.3.9.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/jar_files (10)/okhttp-3.10.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/jar_files (10)/okio-1.14.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/jar_files (10)/selenium-api-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/jar_files (10)/selenium-chrome-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/jar_files (10)/selenium-edge-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/jar_files (10)/selenium-firefox-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/jar_files (10)/selenium-ie-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/jar_files (10)/selenium-java-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/jar_files (10)/selenium-opera-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/jar_files (10)/selenium-remote-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/jar_files (10)/selenium-safari-driver-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/jar_files (10)/selenium-support-3.14.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/tanuj.000/Downloads/selenium-server-standalone-3.141.59 (2).jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
